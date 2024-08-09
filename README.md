@@ -8,7 +8,7 @@
 <a href="https://www.hackerrank.com/profile/hoangphongcuade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pwindyzzz" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pwindy" height="30" width="40" /></a>ID:914375934411419698
 </p>
-<image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"> 
+<image align="right" alt="coding" width="400" src="https://hackernoon.com/images/f2px36fy.gif"> 
 
 - 🌱 I’m currently learning **Huflit school**
 
