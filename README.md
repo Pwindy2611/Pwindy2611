@@ -21,11 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nguyễn phong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyễn phong" height="30" width="40" /></a>
-<a href="https://fb.com/phong nguyễn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phong nguyễn" height="30" width="40" /></a>
-<a href="https://instagram.com/pwindyzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pwindyzzz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pwindyzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pwindyzzz" height="30" width="40" /></a>
-<a href="https://discord.gg/Pwindy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pwindy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nguy%E1%BB%85n-ho%C3%A0ng-phong-phong-51a200320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyễn phong" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100072025215010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phong nguyễn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/p_windyzzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pwindyzzz" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/hoangphongcuade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pwindyzzz" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pwindy" height="30" width="40" /></a>ID:914375934411419698
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
