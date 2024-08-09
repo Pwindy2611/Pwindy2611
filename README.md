@@ -9,7 +9,7 @@
 <a href="https://www.hackerrank.com/profile/hoangphongcuade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pwindyzzz" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pwindy" height="30" width="40" /></a>ID:914375934411419698
 </p>
-<image align="right" alt="coding" width="400" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810"> 
+<image align="right" alt="coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif"> 
 
 - 🌱 I’m currently learning **Huflit school**
 
