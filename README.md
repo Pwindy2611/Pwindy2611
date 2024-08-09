@@ -2,10 +2,6 @@
 <h3 align="center">A passionate software developer from VietNam</h3>
 <image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pwindy2611&label=Profile%20views&color=0e75b6&style=flat" alt="pwindy2611" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pwindy2611" alt="pwindy2611" /></a> </p>
-
 - 🌱 I’m currently learning **Huflit school**
 
 - 👨‍💻 All of my projects are available at [in progress](in progress)
